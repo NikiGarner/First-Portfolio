@@ -1,0 +1,17 @@
+.header{
+  font-family: 'Poiret One', cursive;
+  text-align: center;
+}
+
+.about-me h3{
+  border: 1px solid black;
+  text-align: center;
+}
+
+.about-me{
+  font-family: 'Poiret One', cursive;
+}
+
+p{
+  font-size: medium;
+}
