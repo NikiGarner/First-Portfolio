@@ -1,6 +1,22 @@
 .header{
   font-family: 'Poiret One', cursive;
   text-align: center;
+
+}
+
+.header h4{
+  padding: 10px;
+}
+
+.col-md-4{
+  padding-top: 15px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.col-md-2 about-me{
+  float:right;
+
 }
 
 .about-me h3{
