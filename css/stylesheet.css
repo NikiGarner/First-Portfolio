@@ -1,3 +1,7 @@
+.background{
+   background-color: rgba(153, 215, 178,0.6);
+}
+
 .header{
   font-family: 'Poiret One', cursive;
   text-align: center;
@@ -21,11 +25,19 @@
   text-align: center;
 }
 
+.projects h3{
+  font-family: 'Poiret One', cursive;
+  border: 1px solid black;
+  text-align: center;
+}
+
 .about-me h3{
   font-family: 'Poiret One', cursive;
   border: 1px solid black;
   text-align: center;
 }
+
+
 .contact-me h3{
   font-family: 'Poiret One', cursive;
   border: 1px solid black;
@@ -35,10 +47,15 @@
 
 p{
   font-family: 'Poiret One', cursive;
-  font-size: medium;
+  font-size: 18px;
 }
 
 ul{
   font-family: 'Poiret One', cursive;
-  font-size: medium;
+  font-size: 18px;
+}
+
+ol{
+  font-family: 'Poiret One', cursive;
+  font-size: 18px;
 }
