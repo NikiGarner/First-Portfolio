@@ -1,33 +1,44 @@
 .header{
   font-family: 'Poiret One', cursive;
   text-align: center;
-
 }
 
-.header h4{
-  padding: 10px;
+.col-md-8 about-me{
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    font-size: medium;
 }
 
-.col-md-4{
-  padding-top: 15px;
-  margin-top: 15px;
-  margin-left: 10px;
+.col-md-8 contact-me{
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    font-size: medium;
 }
 
-.col-md-2 about-me{
-  float:right;
-
-}
-
-.about-me h3{
+.welcome h3{
+  font-family: 'Poiret One', cursive;
   border: 1px solid black;
   text-align: center;
 }
 
-.about-me{
+.about-me h3{
   font-family: 'Poiret One', cursive;
+  border: 1px solid black;
+  text-align: center;
+}
+.contact-me h3{
+  font-family: 'Poiret One', cursive;
+  border: 1px solid black;
+  text-align: center;
 }
 
+
 p{
+  font-family: 'Poiret One', cursive;
+  font-size: medium;
+}
+
+ul{
+  font-family: 'Poiret One', cursive;
   font-size: medium;
 }
