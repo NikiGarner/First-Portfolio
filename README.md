@@ -1,13 +1,14 @@
 # Portfolio
- _{Niki Garner}
+## Epicodus Student Project
+## Introduction Class
 
-#### _{Portfolio Webpage}, {1/30/2016}_
+####{1/30/2016}_
 
-#### By _**{Niki Garner}**_
+#### By _**Niki Garner**_
 
 ## Description
 
-_{This is my Portfolio to showcase my work as a front end developer. It also has a section about myself where I talk about who I am. There is also a section about how to contact me.}_
+_This is my first Portfolio to showcase my work as a front end developer. It also has a section about myself where I talk about who I am. There is also a section about how to contact me. This was a end of the unit project for Epicodus. This app used HTML, CSS, and Bootstrap_
 
 ## Setup/Installation Requirements
 
@@ -22,18 +23,21 @@ _{This is my Portfolio to showcase my work as a front end developer. It also has
 
 ## Known Bugs
 
-_{No known bugs}_
+_No known bugs_
 
 ## Support and contact details
 
-_{If you run  into any issues whether it is a bug or what have you, please contact me at name@email.com}_
+_If you run  into any issues whether it is a bug or what have you, please contact me here on github_
 
 ## Technologies Used
 
-_{This website used Bootstrap for the styling of the page.}_
+* HTML
+* CSS
+* Bootstrap
 
 ### License
 
-*{GPL}*
+*MIT License*
+<a href="https://opensource.org/licenses/MIT">https://opensource.org/licenses/MIT</a>
 
-Copyright (c) 2016 **_{Niki Garner}_**
+Copyright (c) 2016 **_Epicodus_**
